@@ -1,5 +1,3 @@
-import './style.css';
-
 const WHATSAPP = '8613800000000';
 const defaults = [
  {id:1,slug:'sienna-structured-tote',category:'tote',name:'Sienna Structured Tote',zh:'Sienna 通勤手提包',model:'LA-2026-01',moq:50,price:'$18–24',material:'Genuine leather',size:'32 × 12 × 25 cm',colors:'Caramel, Black, Ivory',featured:true,image:'https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=85',description:'A refined, structured tote made for modern everyday carry. Custom colors and hardware available.'},
